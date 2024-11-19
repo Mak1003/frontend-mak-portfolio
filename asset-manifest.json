@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Mak1003/frontend-mak-portfolio/tree/mak-portfolio-final/static/css/main.1532af18.css",
+    "main.js": "/Mak1003/frontend-mak-portfolio/tree/mak-portfolio-final/static/js/main.68373e1f.js",
+    "index.html": "/Mak1003/frontend-mak-portfolio/tree/mak-portfolio-final/index.html",
+    "main.1532af18.css.map": "/Mak1003/frontend-mak-portfolio/tree/mak-portfolio-final/static/css/main.1532af18.css.map",
+    "main.68373e1f.js.map": "/Mak1003/frontend-mak-portfolio/tree/mak-portfolio-final/static/js/main.68373e1f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1532af18.css",
+    "static/js/main.68373e1f.js"
+  ]
+}
