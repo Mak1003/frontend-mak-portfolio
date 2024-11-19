@@ -1,4 +1,3 @@
-http://192.168.255.46:3000/Mak1003/frontend-mak-portfolio/tree/mak-portfolio-final
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
