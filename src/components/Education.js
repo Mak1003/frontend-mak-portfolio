@@ -1,6 +1,7 @@
 import React from 'react';
 import './Education.css';
-
+import Academics from './Academics';
+import { Link } from 'react-router-dom';
 function Education() {
   return (
     <section className="education" id="education">
@@ -10,6 +11,11 @@ function Education() {
         <p className="institution">Symbiosis Institute Of Technology</p>
         <p className="duration">2022 - 2026</p>
         <p className="details">A comprehensive program covering software development, hardware systems, and computer networks.</p>
+        <Academics>
+        <Link to="./Academics.js">
+          <button className="InstButton">View Academics</button>
+        </Link>
+        </Academics>  
         <a href='https://www.sitpune.edu.in/' target='_blank' rel="noreferrer">
           <button className='InstButton'>Visit the Institute</button>
         </a>
