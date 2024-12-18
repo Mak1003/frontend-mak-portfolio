@@ -1,7 +1,7 @@
 import React from 'react';
 import './Education.css';
 import Academics from './Sitacademics';
-import { Link } from 'react-router-dom';
+import Cacademics from './cipetacademics';
 function Education() {
   return (
     <section className="education" id="education">
@@ -12,10 +12,6 @@ function Education() {
         <p className="duration">2022 - 2026</p>
         <p className="details">A comprehensive program covering software development, hardware systems, and computer networks.</p>
         <Academics/>
-        <Link to="./Academics.js">
-          <button className="InstsButton">View Academics</button>
-        </Link>
-          
         <a href='https://www.sitpune.edu.in/' target='_blank' rel="noreferrer">
           <button className='InstButton'>Visit the Institute</button>
         </a>
@@ -25,6 +21,7 @@ function Education() {
         <p className="institution">Central Institute Of petrochemical Engineering and Technology </p>
         <p className="duration">2020 - 2023</p>
         <p className="details">Focused on Chemical engineering and Technology.</p>
+        <Cacademics/>
         <a href='https://www.cipet.gov.in/' target='_blank' rel="noreferrer">
           <button className='InstButton'>Visit the Institute</button>
         </a>
