@@ -2,14 +2,14 @@
 
 .education {
     padding: 60px 20px;
-    background-color: #d3ab9b;
+    background-color: linear-gradient(#f76126 to #d1565f);
     text-align: center;
   }
   
   .education-title {
     font-size: 2.5rem;
     margin-bottom: 40px;
-    color: #333;
+    color: #070707;
   }
   
   .education-item {
