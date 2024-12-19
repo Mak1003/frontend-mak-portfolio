@@ -1,7 +1,5 @@
 my site link below
 1) https://maksportfolio.netlify.app/
-.......................................
-2) https://mak1003.github.io/frontend-mak-portfolio/
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
