@@ -12,6 +12,7 @@ function Education() {
         <p className="duration">2022 - 2026</p>
         <p className="details">A comprehensive program covering software development, hardware systems, and computer networks.</p>
         <Academics/>
+        <p/>
         <a href='https://www.sitpune.edu.in/' target='_blank' rel="noreferrer">
           <button className='InstButton'>Visit the Institute</button>
         </a>
@@ -22,6 +23,7 @@ function Education() {
         <p className="duration">2020 - 2023</p>
         <p className="details">Focused on Chemical engineering and Technology.</p>
         <Cacademics/>
+        <p/>
         <a href='https://www.cipet.gov.in/' target='_blank' rel="noreferrer">
           <button className='InstButton'>Visit the Institute</button>
         </a>

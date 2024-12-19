@@ -2,7 +2,7 @@
 
 .education {
     padding: 60px 20px;
-    background-color: linear-gradient(#f76126 to #d1565f);
+    background: linear-gradient(to right, #61ffd7, #ffcd43);
     text-align: center;
   }
   
@@ -24,7 +24,7 @@
   .education-item:hover {
     transform: translateY(-10px);
     box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2);
-    background-color: rgb(229, 247, 164);
+    background: linear-gradient(to right, #61ffd7, #ffcd43);
   }
   
   .degree {
