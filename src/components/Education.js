@@ -2,6 +2,7 @@ import React from 'react';
 import './Education.css';
 import Academics from './Sitacademics';
 import Cacademics from './cipetacademics';
+import Sacademics from './Schoolacademics';
 function Education() {
   return (
     <section className="education" id="education">
@@ -33,6 +34,8 @@ function Education() {
         <p className="institution">Kendriya Vidyalaya Abad cantt</p>
         <p className="duration">2019 - 2020</p>
         <p className="details">Focused on Intermidate level of Physics, Chemistry and Maths.</p> 
+        <Sacademics/>
+        <p/>
         <a href='https://aurangabadcantt.kvs.ac.in/' target='_blank' rel="noreferrer">
           <button className='InstButton'>Visit the Institute</button>
         </a>

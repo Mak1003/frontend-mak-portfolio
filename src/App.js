@@ -6,7 +6,8 @@ import Projects from './components/Projects';
 import Contact from './components/Contact';
 import Education from './components/Education';
 import Academics from './components/Sitacademics';
-import Cacademics from './components/cipetacademics';  
+import Cacademics from './components/cipetacademics'; 
+import Sacademics from './components/Schoolacademics'; 
 
 function App() {
   return (
@@ -19,6 +20,7 @@ function App() {
         <Route path="/education" element={<Education />} /> {/* Education Route */}
         <Route path="/academic" element={<Academics />} />
         <Route path="/cacademics" element={<Cacademics />} />
+        <Route path="/sacademics" element={<Sacademics />} />
       </Routes>
     </Router>
   );
