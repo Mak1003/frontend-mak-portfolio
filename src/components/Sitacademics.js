@@ -1,8 +1,10 @@
 // Academics.js
 import React from 'react';
+import './Sitacademics.css';
 import { Link } from 'react-router-dom'; // Import Link from react-router-dom
 
-const Academics = () => {
+function Academics () {
+  console.log('Academics component rendered');
   return (
     <div className="academics">
       <h4>ACADEMICS</h4>
