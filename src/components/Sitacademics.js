@@ -2,10 +2,19 @@
 import React from 'react';
 import { Link } from 'react-router-dom'; // Import Link from react-router-dom
 
-const Academics = ({ children }) => {
+const Academics = () => {
   return (
     <div className="academics">
-      {children}
+      <h4>ACADEMICS</h4>
+      <p>Here are some of the subjects I have studied:</p>
+      <ul>
+        <li>Computer Science</li>
+        <li>Mathematics</li>
+        <li>Physics</li>
+        <li>Chemistry</li>
+      </ul>
+      <p>For more details, you can view my academic records:</p>
+      
       <Link to="/academics"> 
         <button className="InstButton">View Academics</button>
       </Link>
