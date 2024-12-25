@@ -19,6 +19,8 @@
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     margin-bottom: 30px;
     transition: transform 0.3s, box-shadow 0.3s;
+    font-weight: bold;
+    font-size: 1rem;
   }
   
   .education-item:hover {
@@ -35,12 +37,12 @@
   
   .institution {
     font-size: 1.2rem;
-    color: #666;
+    color: #0c0c0c;
   }
   
   .duration {
     font-size: 1rem;
-    color: #999;
+    color: #0a0a0a;
     margin: 10px 0;
   }
   
@@ -51,8 +53,8 @@
   }
   .InstButton{
     padding: 10px 20px;
-    background-color: #fff;
-    color: #ff6f61;
+    background-color: #535353;
+    color: #ee3e12;
     border: none;
     border-radius: 5px;
     font-size: 1rem;
