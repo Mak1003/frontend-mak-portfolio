@@ -14,6 +14,7 @@ function Academics () {
         <li>Mathematics</li>
         <li>Physics</li>
         <li>Chemistry</li>
+        <li>Biology</li>
       </ul>
       <p>For more details, you can view my academic records:</p>
       
