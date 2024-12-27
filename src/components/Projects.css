@@ -17,6 +17,18 @@
     grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
     gap: 20px;
   }
+
+  @media (max-width: 768px) {
+    .home-title {
+      font-size: 2.5rem; /* Adjust title size for tablets */
+    }
+  }
+  
+  @media (max-width: 480px) {
+    .home-title {
+      font-size: 2rem; /* Adjust title size for mobile */
+    }
+  }
   
   .project-card {
     background-color: #fff;

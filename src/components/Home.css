@@ -14,6 +14,18 @@
     max-width: 800px;
     animation: fadeIn 1.5s ease-in-out;
   }
+
+  @media (max-width: 768px) {
+    .home-title {
+      font-size: 2.5rem; /* Adjust title size for tablets */
+    }
+  }
+  
+  @media (max-width: 480px) {
+    .home-title {
+      font-size: 2rem; /* Adjust title size for mobile */
+    }
+  }
   
   .home-title {
     font-size: 3rem;

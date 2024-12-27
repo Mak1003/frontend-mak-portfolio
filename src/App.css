@@ -10,6 +10,17 @@ body {
   text-align: center;
   padding: 20px;
 }
+@media (max-width: 768px) {
+  .App {
+    padding: 10px;
+  }
+}
+
+@media (max-width: 480px) {
+  body {
+    font-size: 14px;
+  }
+}
 
 h1, h2, h3 {
   margin: 10px 0;
