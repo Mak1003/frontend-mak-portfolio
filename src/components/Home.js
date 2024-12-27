@@ -31,7 +31,7 @@ function Home() {
       <div ref={resumeRef} className="resume-section">
   <h2 className='headname'>My Resume</h2>
   <div className="resume-content">
-    <h3>MAHESH Anil Khrarote.</h3>
+    <h3>Mahesh Anil Kharote.</h3>
     <p><strong>Email:</strong> maheshkharote2580@gmail.com</p>
     <p><strong>Phone:</strong> 123456789</p>
     <p><strong>LinkedIn:</strong> www.linkedin.com/in/mahesh-kharote-64abb7185</p>
