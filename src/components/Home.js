@@ -25,10 +25,6 @@ function Home() {
         </button>
       </div>
       <div ref={resumeRef} className="resume-section">
-        {/* Resume content goes here */}
-        <h2 className='headname'>My Resume</h2>
-      </div>
-      <div ref={resumeRef} className="resume-section">
   <h2 className='headname'>My Resume</h2>
   <div className="resume-content">
     <h3>Mahesh Anil Kharote.</h3>

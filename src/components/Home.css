@@ -1,7 +1,5 @@
 /* Home.css */
-#root{
-  background: linear-gradient(to right, #ff6f61, #ff9f43);
-}
+
 .home {
 
   padding: 60px 20px;
@@ -10,6 +8,7 @@
   background: linear-gradient(to right, #ff6f61, #ff9f43);
   color: #ffffff;
   text-align: center;
+  display: flex;
 
 }
   
