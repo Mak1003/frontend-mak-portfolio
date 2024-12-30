@@ -1,13 +1,16 @@
 /* Home.css */
-
+#root{
+  background: linear-gradient(to right, #ff6f61, #ff9f43);
+}
 .home {
-  display: flex;
+
+  padding: 60px 20px;
   justify-content: center;
   align-items: center;
-  min-height: 100vh;
   background: linear-gradient(to right, #ff6f61, #ff9f43);
-  color: #fff;
+  color: #ffffff;
   text-align: center;
+
 }
   
 .home-content {

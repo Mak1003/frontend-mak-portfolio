@@ -9,7 +9,7 @@
   .education-title {
     font-size: 2rem;
     margin-bottom: 40px;
-    color: #070707;
+    color: #4b4949;
   }
   
   .education-item {
@@ -36,18 +36,18 @@
   
   .institution {
     font-size: 1.2rem;
-    color: #0c0c0c;
+    color: #2e2d2d;
   }
   
   .duration {
     font-size: 1rem;
-    color: #0a0a0a;
+    color: #423838;
     margin: 10px 0;
   }
   
   .details {
     font-size: 1rem;
-    color: #333;
+    color: #4b4a4a;
     margin-top: 10px;
   }
   .InstButton{
