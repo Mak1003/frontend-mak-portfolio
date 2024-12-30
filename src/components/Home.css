@@ -5,6 +5,7 @@
   padding: 60px 20px;
   justify-content: center;
   align-items: center;
+  min-height: 100vh;
   background: linear-gradient(to right, #ff6f61, #ff9f43);
   color: #ffffff;
   text-align: center;
@@ -64,7 +65,6 @@
       opacity: 1;
     }
 }
-  /* Add this to your Home.css */
 .resume-section {
   padding: 20px;
   background-color: #f8bda1;
