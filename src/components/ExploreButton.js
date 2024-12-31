@@ -10,7 +10,7 @@ function ExploreButton() {
   };
 
   return (
-    <button onClick={handleClick} className="explore-btn">
+    <button onClick={handleClick} className="spaceship-button">
       Explore More
     </button>
   );
