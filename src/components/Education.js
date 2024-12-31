@@ -10,7 +10,7 @@ function Education() {
         <p className="institution">Symbiosis Institute Of Technology</p>
         <p className="duration">2022 - 2026</p>
         <p className="details">A comprehensive program covering software development, hardware systems, and computer networks.</p>
-        <Link to="/academics"> 
+        <Link to="/academic"> 
                 <button className="InstButton">View Academics</button>
         </Link>
         <p/>
@@ -23,7 +23,7 @@ function Education() {
         <p className="institution">Central Institute Of petrochemical Engineering and Technology </p>
         <p className="duration">2020 - 2023</p>
         <p className="details">Focused on Chemical engineering and Technology.</p>
-        <Link to="/academics"> 
+        <Link to="/cacademics"> 
                 <button className="InstButton">View Academics</button>
         </Link>
         <p/>
@@ -36,7 +36,7 @@ function Education() {
         <p className="institution">Kendriya Vidyalaya Abad cantt</p>
         <p className="duration">2019 - 2020</p>
         <p className="details">Focused on Intermidate level of Physics, Chemistry and Maths.</p> 
-        <Link to="/academics"> 
+        <Link to="/sacademics"> 
                 <button className="InstButton">View Academics</button>
         </Link>
         <p/>
