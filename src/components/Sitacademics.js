@@ -1,28 +1,21 @@
 // Academics.js
 import React from 'react';
 import './Sitacademics.css';
-import { Link } from 'react-router-dom'; // Import Link from react-router-dom
+//import { Link } from 'react-router-dom'; // Import Link from react-router-dom
 
 function Academics () {
   console.log('Academics component rendered');
   return (
-    <div className="academics">
-      <h4>ACADEMICS</h4>
-      <p>Here are some of the subjects I have studied:</p>
-      <ul>
-        <li>Computer Science</li>
-        <li>Mathematics</li>
-        <li>Physics</li>
-        <li>Chemistry</li>
-        <li>Biology</li>
-      </ul>
-      <p>For more details, you can view my academic records:</p>
-      
-      <Link to="/academics"> 
-        <button className="InstButton">View Academics</button>
-      </Link>
-    </div>
+    <section className="sitacademics" id="academics">
+      <div className="academics-item">
+        <h2>Academic Programs</h2>
+        <h3>Computer Engineering</h3>
+        <p>Symbiosis Institute Of Technology</p>
+
+      </div>
+    </section>
+    
   );
-};
+}
 
 export default Academics;
