@@ -128,6 +128,9 @@
     bottom: -15px;
   }
 }
-
+ .middleblock{
+  background: linear-gradient(to right, #1d1c4b, #2c72f3);
+  color: #ffffff;
+ }
 
 
