@@ -129,8 +129,16 @@
   }
 }
  .middleblock{
+  padding: 60px 20px;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
   background: linear-gradient(to right, #1d1c4b, #2c72f3);
   color: #ffffff;
+  
+ }
+ .container{
+  text-align: center;
  }
 
 

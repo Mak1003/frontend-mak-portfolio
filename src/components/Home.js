@@ -75,6 +75,16 @@ function Home() {
             <h3>My journy</h3>
             <p>Project description goes here.</p>
             </div>
+            <div class="project-card">
+            <img src="https://via.placeholder.com/300" alt="Project" />
+            <h3>My journy</h3>
+            <p>Project description goes here.</p>
+            </div>
+            <div class="project-card">
+            <img src="https://via.placeholder.com/300" alt="Project" />
+            <h3>My journy</h3>
+            <p>Project description goes here.</p>
+            </div>
           </div>
         </div>
       </div>
